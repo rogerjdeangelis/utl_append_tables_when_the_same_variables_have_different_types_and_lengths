@@ -1,0 +1,2 @@
+# utl_append_tables_when_the_same_variables_have_different_types_and_lengths
+Append tables when the same variables have different types and lengths.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
